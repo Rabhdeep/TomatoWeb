@@ -1,0 +1,11 @@
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\bin\Debug\net7.0\Abby.Utility.deps.json
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\bin\Debug\net7.0\Abby.Utility.dll
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\bin\Debug\net7.0\Abby.Utility.pdb
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.AssemblyInfoInputs.cache
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.AssemblyInfo.cs
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.csproj.CoreCompileInputs.cache
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.dll
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\refint\Abby.Utility.dll
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\Abby.Utility.pdb
+C:\Users\RABHDEEPSINGH\source\repos\AbbyWeb\Abby.Utility\obj\Debug\net7.0\ref\Abby.Utility.dll

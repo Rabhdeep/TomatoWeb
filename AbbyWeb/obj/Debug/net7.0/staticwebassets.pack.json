@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AbbyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AbbyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\css\\bootswatch_cyborg.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch_cyborg.css"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\jonathan-van-den-broek-II1P6vSXd5o-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\jonathan-van-den-broek-II1P6vSXd5o-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\383cdf41-f41d-429d-82b6-45e977e370df.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\383cdf41-f41d-429d-82b6-45e977e370df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\4c2f681e-5e58-490a-ad30-068c698dc59f.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\4c2f681e-5e58-490a-ad30-068c698dc59f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\4da772d1-d566-41ac-8671-42708af51e58.png",
+      "PackagePath": "staticwebassets\\images\\menuItems\\4da772d1-d566-41ac-8671-42708af51e58.png"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\558f878f-72a8-43bc-b6ea-d4eb84ca2287.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\558f878f-72a8-43bc-b6ea-d4eb84ca2287.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\704a0511-3007-4386-af8f-613c331e5f75.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\704a0511-3007-4386-af8f-613c331e5f75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\882f3587-11a1-4ae7-8d71-12308a004160.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\882f3587-11a1-4ae7-8d71-12308a004160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\8e077c98-b5d5-4158-852a-fed70760f242.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\8e077c98-b5d5-4158-852a-fed70760f242.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\9afefae4-91b0-4803-a89c-3342486be8c0.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\9afefae4-91b0-4803-a89c-3342486be8c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\9c27b788-5c0f-473c-b372-0582a54d5c7d.png",
+      "PackagePath": "staticwebassets\\images\\menuItems\\9c27b788-5c0f-473c-b372-0582a54d5c7d.png"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\c251a7b8-9155-4e0a-93de-1d3db57cd1b5.png",
+      "PackagePath": "staticwebassets\\images\\menuItems\\c251a7b8-9155-4e0a-93de-1d3db57cd1b5.png"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\menuItems\\ff243f9d-204c-4beb-be7a-68d72daf8b88.jpg",
+      "PackagePath": "staticwebassets\\images\\menuItems\\ff243f9d-204c-4beb-be7a-68d72daf8b88.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\photo-1498036882173-b41c28a8ba34.avif",
+      "PackagePath": "staticwebassets\\images\\photo-1498036882173-b41c28a8ba34.avif"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\images\\tomato.png",
+      "PackagePath": "staticwebassets\\images\\tomato.png"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\AbbyWeb\\AbbyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AbbyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AbbyWeb.props",
+      "PackagePath": "build\\AbbyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AbbyWeb.props",
+      "PackagePath": "buildMultiTargeting\\AbbyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AbbyWeb.props",
+      "PackagePath": "buildTransitive\\AbbyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

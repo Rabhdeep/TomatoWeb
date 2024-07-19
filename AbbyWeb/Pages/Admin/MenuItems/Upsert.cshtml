@@ -1,0 +1,100 @@
+﻿@page
+@model AbbyWeb.Pages.Admin.MenuItems.UpsertModel
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="MenuItem.Id" hidden />
+    <div class="border p-3 mt-4 text-dark-emphasis">
+        <div class="row pb-2">
+            <div class="col-9">
+                <h2 class="text-primary pl-3">
+                    @(Model.MenuItem.Id != 0 ? "Update" : "Create") MenuItem
+                </h2>
+                <hr />
+                <div class="mb-3">
+                    <label asp-for="MenuItem.Name"></label>
+                    <input asp-for="@Model.MenuItem.Name" class="form-control" />
+                    <span asp-validation-for="MenuItem.Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MenuItem.Description"></label>
+                    <textarea asp-for="@Model.MenuItem.Description" class="form-control"></textarea>
+                    <span asp-validation-for="MenuItem.Description" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MenuItem.Price"></label>
+                    <input asp-for="@Model.MenuItem.Price" class="form-control" />
+                    <span asp-validation-for="MenuItem.Price" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MenuItem.Image"></label>
+                    <input type="file" name="files" id="uploadBox" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MenuItem.CategoryId"></label>
+                    <select asp-for="@Model.MenuItem.CategoryId" asp-items="Model.CategoryList" class="form-select">
+                        <option disabled selected>-Select Category-</option>
+                    </select>
+                    <span asp-validation-for="MenuItem.CategoryId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="MenuItem.FoodTypeId"></label>
+                    <select asp-for="@Model.MenuItem.FoodTypeId" asp-items="Model.FoodTypeList" class="form-select">
+                        <option disabled selected>-Select food Type-</option>
+                    </select>
+                    <span asp-validation-for="MenuItem.FoodTypeId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-3">
+                @if (Model.MenuItem.Id != 0)
+                {
+                    <img src="@Model.MenuItem.Image" style="border-radius:5px;border:1px solid #bbb9b9; width:300px;" />
+                }
+            </div>
+        </div>
+        @if (Model.MenuItem.Id != 0)
+        {
+            <button type="submit" class="btn btn-primary" style="width:150px;">
+                Update
+            </button>
+        }
+        else
+        {
+            <button type="submit" onClick="return ValidateInput()" class="btn btn-primary" style="width:150px;">
+                Create
+            </button>
+        }
+    </div>
+</form>
+
+@section Scripts{
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: 'ai tinycomments mentions anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed permanentpen footnotes advtemplate advtable advcode editimage tableofcontents mergetags powerpaste tinymcespellchecker autocorrect a11ychecker typography inlinecss',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | align lineheight | tinycomments | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            tinycomments_mode: 'embedded',
+            tinycomments_author: 'Author name',
+            mergetags_list: [
+                { value: 'First.Name', title: 'First Name' },
+                { value: 'Email', title: 'Email' },
+            ],
+            ai_request: (request, respondWith) => respondWith.string(() => Promise.reject("See docs to implement AI Assistant")),
+        });
+        function ValidateInput(){
+            if(document.getElementById("uploadBox").value=="")
+            {
+                Swal.fire(
+                    {
+                        title:'oops...',
+                        text:'Please upload an Image!',
+                        icon:'error'
+                    }
+                );
+                return false;
+            }
+            return true;
+        }
+    </script>
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
